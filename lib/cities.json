@@ -1,0 +1,2480 @@
+[
+	{
+		"city": "sfbay",
+		"url": "http://sfbay.craigslist.org/",
+		"name": "SF bay area",
+		"metro": true
+	},
+	{
+		"city": "abilene",
+		"url": "http://abilene.craigslist.org/",
+		"name": "abilene",
+		"metro": false
+	},
+	{
+		"city": "akroncanton",
+		"url": "http://akroncanton.craigslist.org/",
+		"name": "akron / canton",
+		"metro": false
+	},
+	{
+		"city": "albanyga",
+		"url": "http://albanyga.craigslist.org/",
+		"name": "albany,GA",
+		"metro": false
+	},
+	{
+		"city": "albany",
+		"url": "http://albany.craigslist.org/",
+		"name": "albany,NY",
+		"metro": true
+	},
+	{
+		"city": "albuquerque",
+		"url": "http://albuquerque.craigslist.org/",
+		"name": "albuquerque",
+		"metro": true
+	},
+	{
+		"city": "altoona",
+		"url": "http://altoona.craigslist.org/",
+		"name": "altoona-johnstown",
+		"metro": false
+	},
+	{
+		"city": "amarillo",
+		"url": "http://amarillo.craigslist.org/",
+		"name": "amarillo",
+		"metro": false
+	},
+	{
+		"city": "ames",
+		"url": "http://ames.craigslist.org/",
+		"name": "ames,IA",
+		"metro": false
+	},
+	{
+		"city": "anchorage",
+		"url": "http://anchorage.craigslist.org/",
+		"name": "anchorage / mat-su",
+		"metro": true
+	},
+	{
+		"city": "annarbor",
+		"url": "http://annarbor.craigslist.org/",
+		"name": "ann arbor",
+		"metro": false
+	},
+	{
+		"city": "annapolis",
+		"url": "http://annapolis.craigslist.org/",
+		"name": "annapolis",
+		"metro": false
+	},
+	{
+		"city": "appleton",
+		"url": "http://appleton.craigslist.org/",
+		"name": "appleton-oshkosh-FDL",
+		"metro": false
+	},
+	{
+		"city": "asheville",
+		"url": "http://asheville.craigslist.org/",
+		"name": "asheville",
+		"metro": false
+	},
+	{
+		"city": "ashtabula",
+		"url": "http://ashtabula.craigslist.org/",
+		"name": "ashtabula",
+		"metro": false
+	},
+	{
+		"city": "athensga",
+		"url": "http://athensga.craigslist.org/",
+		"name": "athens,GA",
+		"metro": false
+	},
+	{
+		"city": "athensohio",
+		"url": "http://athensohio.craigslist.org/",
+		"name": "athens,OH",
+		"metro": false
+	},
+	{
+		"city": "atlanta",
+		"url": "http://atlanta.craigslist.org/",
+		"name": "atlanta",
+		"metro": true
+	},
+	{
+		"city": "auburn",
+		"url": "http://auburn.craigslist.org/",
+		"name": "auburn",
+		"metro": false
+	},
+	{
+		"city": "augusta",
+		"url": "http://augusta.craigslist.org/",
+		"name": "augusta",
+		"metro": false
+	},
+	{
+		"city": "austin",
+		"url": "http://austin.craigslist.org/",
+		"name": "austin",
+		"metro": true
+	},
+	{
+		"city": "bakersfield",
+		"url": "http://bakersfield.craigslist.org/",
+		"name": "bakersfield",
+		"metro": false
+	},
+	{
+		"city": "baltimore",
+		"url": "http://baltimore.craigslist.org/",
+		"name": "baltimore",
+		"metro": true
+	},
+	{
+		"city": "batonrouge",
+		"url": "http://batonrouge.craigslist.org/",
+		"name": "baton rouge",
+		"metro": false
+	},
+	{
+		"city": "battlecreek",
+		"url": "http://battlecreek.craigslist.org/",
+		"name": "battle creek",
+		"metro": false
+	},
+	{
+		"city": "beaumont",
+		"url": "http://beaumont.craigslist.org/",
+		"name": "beaumont / port arthur",
+		"metro": false
+	},
+	{
+		"city": "bellingham",
+		"url": "http://bellingham.craigslist.org/",
+		"name": "bellingham",
+		"metro": false
+	},
+	{
+		"city": "bemidji",
+		"url": "http://bemidji.craigslist.org/",
+		"name": "bemidji",
+		"metro": false
+	},
+	{
+		"city": "bend",
+		"url": "http://bend.craigslist.org/",
+		"name": "bend",
+		"metro": false
+	},
+	{
+		"city": "billings",
+		"url": "http://billings.craigslist.org/",
+		"name": "billings",
+		"metro": false
+	},
+	{
+		"city": "binghamton",
+		"url": "http://binghamton.craigslist.org/",
+		"name": "binghamton",
+		"metro": false
+	},
+	{
+		"city": "bham",
+		"url": "http://bham.craigslist.org/",
+		"name": "birmingham,AL",
+		"metro": false
+	},
+	{
+		"city": "bismarck",
+		"url": "http://bismarck.craigslist.org/",
+		"name": "bismarck",
+		"metro": false
+	},
+	{
+		"city": "bloomington",
+		"url": "http://bloomington.craigslist.org/",
+		"name": "bloomington,IN",
+		"metro": false
+	},
+	{
+		"city": "bn",
+		"url": "http://bn.craigslist.org/",
+		"name": "bloomington-normal",
+		"metro": false
+	},
+	{
+		"city": "boise",
+		"url": "http://boise.craigslist.org/",
+		"name": "boise",
+		"metro": true
+	},
+	{
+		"city": "boone",
+		"url": "http://boone.craigslist.org/",
+		"name": "boone",
+		"metro": false
+	},
+	{
+		"city": "boston",
+		"url": "http://boston.craigslist.org/",
+		"name": "boston",
+		"metro": true
+	},
+	{
+		"city": "boulder",
+		"url": "http://boulder.craigslist.org/",
+		"name": "boulder",
+		"metro": false
+	},
+	{
+		"city": "bgky",
+		"url": "http://bgky.craigslist.org/",
+		"name": "bowling green",
+		"metro": false
+	},
+	{
+		"city": "bozeman",
+		"url": "http://bozeman.craigslist.org/",
+		"name": "bozeman",
+		"metro": false
+	},
+	{
+		"city": "brainerd",
+		"url": "http://brainerd.craigslist.org/",
+		"name": "brainerd",
+		"metro": false
+	},
+	{
+		"city": "brownsville",
+		"url": "http://brownsville.craigslist.org/",
+		"name": "brownsville",
+		"metro": false
+	},
+	{
+		"city": "brunswick",
+		"url": "http://brunswick.craigslist.org/",
+		"name": "brunswick,GA",
+		"metro": false
+	},
+	{
+		"city": "buffalo",
+		"url": "http://buffalo.craigslist.org/",
+		"name": "buffalo",
+		"metro": true
+	},
+	{
+		"city": "butte",
+		"url": "http://butte.craigslist.org/",
+		"name": "butte",
+		"metro": false
+	},
+	{
+		"city": "capecod",
+		"url": "http://capecod.craigslist.org/",
+		"name": "cape cod / islands",
+		"metro": false
+	},
+	{
+		"city": "catskills",
+		"url": "http://catskills.craigslist.org/",
+		"name": "catskills",
+		"metro": false
+	},
+	{
+		"city": "cedarrapids",
+		"url": "http://cedarrapids.craigslist.org/",
+		"name": "cedar rapids",
+		"metro": false
+	},
+	{
+		"city": "cnj",
+		"url": "http://cnj.craigslist.org/",
+		"name": "central NJ",
+		"metro": false
+	},
+	{
+		"city": "cenla",
+		"url": "http://cenla.craigslist.org/",
+		"name": "central louisiana",
+		"metro": false
+	},
+	{
+		"city": "centralmich",
+		"url": "http://centralmich.craigslist.org/",
+		"name": "central michigan",
+		"metro": false
+	},
+	{
+		"city": "chambana",
+		"url": "http://chambana.craigslist.org/",
+		"name": "champaign urbana",
+		"metro": false
+	},
+	{
+		"city": "charleston",
+		"url": "http://charleston.craigslist.org/",
+		"name": "charleston,SC",
+		"metro": false
+	},
+	{
+		"city": "charlestonwv",
+		"url": "http://charlestonwv.craigslist.org/",
+		"name": "charleston,WV",
+		"metro": false
+	},
+	{
+		"city": "charlotte",
+		"url": "http://charlotte.craigslist.org/",
+		"name": "charlotte",
+		"metro": true
+	},
+	{
+		"city": "charlottesville",
+		"url": "http://charlottesville.craigslist.org/",
+		"name": "charlottesville",
+		"metro": false
+	},
+	{
+		"city": "chattanooga",
+		"url": "http://chattanooga.craigslist.org/",
+		"name": "chattanooga",
+		"metro": false
+	},
+	{
+		"city": "chautauqua",
+		"url": "http://chautauqua.craigslist.org/",
+		"name": "chautauqua",
+		"metro": false
+	},
+	{
+		"city": "chicago",
+		"url": "http://chicago.craigslist.org/",
+		"name": "chicago",
+		"metro": true
+	},
+	{
+		"city": "chico",
+		"url": "http://chico.craigslist.org/",
+		"name": "chico",
+		"metro": false
+	},
+	{
+		"city": "chillicothe",
+		"url": "http://chillicothe.craigslist.org/",
+		"name": "chillicothe",
+		"metro": false
+	},
+	{
+		"city": "cincinnati",
+		"url": "http://cincinnati.craigslist.org/",
+		"name": "cincinnati,OH",
+		"metro": true
+	},
+	{
+		"city": "clarksville",
+		"url": "http://clarksville.craigslist.org/",
+		"name": "clarksville,TN",
+		"metro": false
+	},
+	{
+		"city": "cleveland",
+		"url": "http://cleveland.craigslist.org/",
+		"name": "cleveland",
+		"metro": true
+	},
+	{
+		"city": "clovis",
+		"url": "http://clovis.craigslist.org/",
+		"name": "clovis / portales",
+		"metro": false
+	},
+	{
+		"city": "collegestation",
+		"url": "http://collegestation.craigslist.org/",
+		"name": "college station",
+		"metro": false
+	},
+	{
+		"city": "cosprings",
+		"url": "http://cosprings.craigslist.org/",
+		"name": "colorado springs",
+		"metro": false
+	},
+	{
+		"city": "columbiamo",
+		"url": "http://columbiamo.craigslist.org/",
+		"name": "columbia / jeff city",
+		"metro": false
+	},
+	{
+		"city": "columbia",
+		"url": "http://columbia.craigslist.org/",
+		"name": "columbia,SC",
+		"metro": false
+	},
+	{
+		"city": "columbusga",
+		"url": "http://columbusga.craigslist.org/",
+		"name": "columbus,GA",
+		"metro": false
+	},
+	{
+		"city": "columbus",
+		"url": "http://columbus.craigslist.org/",
+		"name": "columbus,OH",
+		"metro": true
+	},
+	{
+		"city": "cookeville",
+		"url": "http://cookeville.craigslist.org/",
+		"name": "cookeville",
+		"metro": false
+	},
+	{
+		"city": "corpuschristi",
+		"url": "http://corpuschristi.craigslist.org/",
+		"name": "corpus christi",
+		"metro": false
+	},
+	{
+		"city": "corvallis",
+		"url": "http://corvallis.craigslist.org/",
+		"name": "corvallis/albany",
+		"metro": false
+	},
+	{
+		"city": "chambersburg",
+		"url": "http://chambersburg.craigslist.org/",
+		"name": "cumberland valley",
+		"metro": false
+	},
+	{
+		"city": "dallas",
+		"url": "http://dallas.craigslist.org/",
+		"name": "dallas / fort worth",
+		"metro": true
+	},
+	{
+		"city": "danville",
+		"url": "http://danville.craigslist.org/",
+		"name": "danville",
+		"metro": false
+	},
+	{
+		"city": "dayton",
+		"url": "http://dayton.craigslist.org/",
+		"name": "dayton / springfield",
+		"metro": false
+	},
+	{
+		"city": "daytona",
+		"url": "http://daytona.craigslist.org/",
+		"name": "daytona beach",
+		"metro": false
+	},
+	{
+		"city": "decatur",
+		"url": "http://decatur.craigslist.org/",
+		"name": "decatur,IL",
+		"metro": false
+	},
+	{
+		"city": "nacogdoches",
+		"url": "http://nacogdoches.craigslist.org/",
+		"name": "deep east texas",
+		"metro": false
+	},
+	{
+		"city": "delrio",
+		"url": "http://delrio.craigslist.org/",
+		"name": "del rio / eagle pass",
+		"metro": false
+	},
+	{
+		"city": "delaware",
+		"url": "http://delaware.craigslist.org/",
+		"name": "delaware",
+		"metro": false
+	},
+	{
+		"city": "denver",
+		"url": "http://denver.craigslist.org/",
+		"name": "denver",
+		"metro": true
+	},
+	{
+		"city": "desmoines",
+		"url": "http://desmoines.craigslist.org/",
+		"name": "des moines",
+		"metro": false
+	},
+	{
+		"city": "detroit",
+		"url": "http://detroit.craigslist.org/",
+		"name": "detroit metro",
+		"metro": true
+	},
+	{
+		"city": "dothan",
+		"url": "http://dothan.craigslist.org/",
+		"name": "dothan,AL",
+		"metro": false
+	},
+	{
+		"city": "dubuque",
+		"url": "http://dubuque.craigslist.org/",
+		"name": "dubuque",
+		"metro": false
+	},
+	{
+		"city": "duluth",
+		"url": "http://duluth.craigslist.org/",
+		"name": "duluth / superior",
+		"metro": false
+	},
+	{
+		"city": "eastidaho",
+		"url": "http://eastidaho.craigslist.org/",
+		"name": "east idaho",
+		"metro": false
+	},
+	{
+		"city": "eastoregon",
+		"url": "http://eastoregon.craigslist.org/",
+		"name": "east oregon",
+		"metro": false
+	},
+	{
+		"city": "eastco",
+		"url": "http://eastco.craigslist.org/",
+		"name": "eastern CO",
+		"metro": false
+	},
+	{
+		"city": "newlondon",
+		"url": "http://newlondon.craigslist.org/",
+		"name": "eastern CT",
+		"metro": false
+	},
+	{
+		"city": "eastnc",
+		"url": "http://eastnc.craigslist.org/",
+		"name": "eastern NC",
+		"metro": false
+	},
+	{
+		"city": "eastky",
+		"url": "http://eastky.craigslist.org/",
+		"name": "eastern kentucky",
+		"metro": false
+	},
+	{
+		"city": "montana",
+		"url": "http://montana.craigslist.org/",
+		"name": "eastern montana",
+		"metro": false
+	},
+	{
+		"city": "martinsburg",
+		"url": "http://martinsburg.craigslist.org/",
+		"name": "eastern panhandle",
+		"metro": false
+	},
+	{
+		"city": "easternshore",
+		"url": "http://easternshore.craigslist.org/",
+		"name": "eastern shore",
+		"metro": false
+	},
+	{
+		"city": "eauclaire",
+		"url": "http://eauclaire.craigslist.org/",
+		"name": "eau claire",
+		"metro": false
+	},
+	{
+		"city": "elpaso",
+		"url": "http://elpaso.craigslist.org/",
+		"name": "el paso",
+		"metro": false
+	},
+	{
+		"city": "elko",
+		"url": "http://elko.craigslist.org/",
+		"name": "elko",
+		"metro": false
+	},
+	{
+		"city": "elmira",
+		"url": "http://elmira.craigslist.org/",
+		"name": "elmira-corning",
+		"metro": false
+	},
+	{
+		"city": "erie",
+		"url": "http://erie.craigslist.org/",
+		"name": "erie,PA",
+		"metro": false
+	},
+	{
+		"city": "eugene",
+		"url": "http://eugene.craigslist.org/",
+		"name": "eugene",
+		"metro": false
+	},
+	{
+		"city": "evansville",
+		"url": "http://evansville.craigslist.org/",
+		"name": "evansville",
+		"metro": false
+	},
+	{
+		"city": "fairbanks",
+		"url": "http://fairbanks.craigslist.org/",
+		"name": "fairbanks",
+		"metro": false
+	},
+	{
+		"city": "fargo",
+		"url": "http://fargo.craigslist.org/",
+		"name": "fargo / moorhead",
+		"metro": false
+	},
+	{
+		"city": "farmington",
+		"url": "http://farmington.craigslist.org/",
+		"name": "farmington,NM",
+		"metro": false
+	},
+	{
+		"city": "fayar",
+		"url": "http://fayar.craigslist.org/",
+		"name": "fayetteville,AR",
+		"metro": false
+	},
+	{
+		"city": "fayetteville",
+		"url": "http://fayetteville.craigslist.org/",
+		"name": "fayetteville,NC",
+		"metro": false
+	},
+	{
+		"city": "fingerlakes",
+		"url": "http://fingerlakes.craigslist.org/",
+		"name": "finger lakes",
+		"metro": false
+	},
+	{
+		"city": "flagstaff",
+		"url": "http://flagstaff.craigslist.org/",
+		"name": "flagstaff / sedona",
+		"metro": false
+	},
+	{
+		"city": "flint",
+		"url": "http://flint.craigslist.org/",
+		"name": "flint",
+		"metro": false
+	},
+	{
+		"city": "shoals",
+		"url": "http://shoals.craigslist.org/",
+		"name": "florence / muscle shoals",
+		"metro": false
+	},
+	{
+		"city": "florencesc",
+		"url": "http://florencesc.craigslist.org/",
+		"name": "florence,SC",
+		"metro": false
+	},
+	{
+		"city": "keys",
+		"url": "http://keys.craigslist.org/",
+		"name": "florida keys",
+		"metro": false
+	},
+	{
+		"city": "fortcollins",
+		"url": "http://fortcollins.craigslist.org/",
+		"name": "fort collins / north CO",
+		"metro": false
+	},
+	{
+		"city": "fortdodge",
+		"url": "http://fortdodge.craigslist.org/",
+		"name": "fort dodge",
+		"metro": false
+	},
+	{
+		"city": "fortsmith",
+		"url": "http://fortsmith.craigslist.org/",
+		"name": "fort smith,AR",
+		"metro": false
+	},
+	{
+		"city": "fortwayne",
+		"url": "http://fortwayne.craigslist.org/",
+		"name": "fort wayne",
+		"metro": false
+	},
+	{
+		"city": "frederick",
+		"url": "http://frederick.craigslist.org/",
+		"name": "frederick",
+		"metro": false
+	},
+	{
+		"city": "fredericksburg",
+		"url": "http://fredericksburg.craigslist.org/",
+		"name": "fredericksburg",
+		"metro": false
+	},
+	{
+		"city": "fresno",
+		"url": "http://fresno.craigslist.org/",
+		"name": "fresno / madera",
+		"metro": true
+	},
+	{
+		"city": "fortmyers",
+		"url": "http://fortmyers.craigslist.org/",
+		"name": "ft myers / SW florida",
+		"metro": false
+	},
+	{
+		"city": "gadsden",
+		"url": "http://gadsden.craigslist.org/",
+		"name": "gadsden-anniston",
+		"metro": false
+	},
+	{
+		"city": "gainesville",
+		"url": "http://gainesville.craigslist.org/",
+		"name": "gainesville",
+		"metro": false
+	},
+	{
+		"city": "galveston",
+		"url": "http://galveston.craigslist.org/",
+		"name": "galveston",
+		"metro": false
+	},
+	{
+		"city": "glensfalls",
+		"url": "http://glensfalls.craigslist.org/",
+		"name": "glens falls",
+		"metro": false
+	},
+	{
+		"city": "goldcountry",
+		"url": "http://goldcountry.craigslist.org/",
+		"name": "gold country",
+		"metro": false
+	},
+	{
+		"city": "grandforks",
+		"url": "http://grandforks.craigslist.org/",
+		"name": "grand forks",
+		"metro": false
+	},
+	{
+		"city": "grandisland",
+		"url": "http://grandisland.craigslist.org/",
+		"name": "grand island",
+		"metro": false
+	},
+	{
+		"city": "grandrapids",
+		"url": "http://grandrapids.craigslist.org/",
+		"name": "grand rapids",
+		"metro": false
+	},
+	{
+		"city": "greatfalls",
+		"url": "http://greatfalls.craigslist.org/",
+		"name": "great falls",
+		"metro": false
+	},
+	{
+		"city": "greenbay",
+		"url": "http://greenbay.craigslist.org/",
+		"name": "green bay",
+		"metro": false
+	},
+	{
+		"city": "greensboro",
+		"url": "http://greensboro.craigslist.org/",
+		"name": "greensboro",
+		"metro": false
+	},
+	{
+		"city": "greenville",
+		"url": "http://greenville.craigslist.org/",
+		"name": "greenville / upstate",
+		"metro": false
+	},
+	{
+		"city": "gulfport",
+		"url": "http://gulfport.craigslist.org/",
+		"name": "gulfport / biloxi",
+		"metro": false
+	},
+	{
+		"city": "norfolk",
+		"url": "http://norfolk.craigslist.org/",
+		"name": "hampton roads",
+		"metro": true
+	},
+	{
+		"city": "hanford",
+		"url": "http://hanford.craigslist.org/",
+		"name": "hanford-corcoran",
+		"metro": false
+	},
+	{
+		"city": "harrisburg",
+		"url": "http://harrisburg.craigslist.org/",
+		"name": "harrisburg",
+		"metro": false
+	},
+	{
+		"city": "harrisonburg",
+		"url": "http://harrisonburg.craigslist.org/",
+		"name": "harrisonburg",
+		"metro": false
+	},
+	{
+		"city": "hartford",
+		"url": "http://hartford.craigslist.org/",
+		"name": "hartford",
+		"metro": true
+	},
+	{
+		"city": "hattiesburg",
+		"url": "http://hattiesburg.craigslist.org/",
+		"name": "hattiesburg",
+		"metro": false
+	},
+	{
+		"city": "honolulu",
+		"url": "http://honolulu.craigslist.org/",
+		"name": "hawaii",
+		"metro": true
+	},
+	{
+		"city": "cfl",
+		"url": "http://cfl.craigslist.org/",
+		"name": "heartland florida",
+		"metro": false
+	},
+	{
+		"city": "helena",
+		"url": "http://helena.craigslist.org/",
+		"name": "helena",
+		"metro": false
+	},
+	{
+		"city": "hickory",
+		"url": "http://hickory.craigslist.org/",
+		"name": "hickory / lenoir",
+		"metro": false
+	},
+	{
+		"city": "rockies",
+		"url": "http://rockies.craigslist.org/",
+		"name": "high rockies",
+		"metro": false
+	},
+	{
+		"city": "hiltonhead",
+		"url": "http://hiltonhead.craigslist.org/",
+		"name": "hilton head",
+		"metro": false
+	},
+	{
+		"city": "holland",
+		"url": "http://holland.craigslist.org/",
+		"name": "holland",
+		"metro": false
+	},
+	{
+		"city": "houma",
+		"url": "http://houma.craigslist.org/",
+		"name": "houma",
+		"metro": false
+	},
+	{
+		"city": "houston",
+		"url": "http://houston.craigslist.org/",
+		"name": "houston",
+		"metro": true
+	},
+	{
+		"city": "hudsonvalley",
+		"url": "http://hudsonvalley.craigslist.org/",
+		"name": "hudson valley",
+		"metro": false
+	},
+	{
+		"city": "humboldt",
+		"url": "http://humboldt.craigslist.org/",
+		"name": "humboldt county",
+		"metro": false
+	},
+	{
+		"city": "huntington",
+		"url": "http://huntington.craigslist.org/",
+		"name": "huntington-ashland",
+		"metro": false
+	},
+	{
+		"city": "huntsville",
+		"url": "http://huntsville.craigslist.org/",
+		"name": "huntsville / decatur",
+		"metro": false
+	},
+	{
+		"city": "imperial",
+		"url": "http://imperial.craigslist.org/",
+		"name": "imperial county",
+		"metro": false
+	},
+	{
+		"city": "indianapolis",
+		"url": "http://indianapolis.craigslist.org/",
+		"name": "indianapolis",
+		"metro": true
+	},
+	{
+		"city": "inlandempire",
+		"url": "http://inlandempire.craigslist.org/",
+		"name": "inland empire",
+		"metro": false
+	},
+	{
+		"city": "iowacity",
+		"url": "http://iowacity.craigslist.org/",
+		"name": "iowa city",
+		"metro": false
+	},
+	{
+		"city": "ithaca",
+		"url": "http://ithaca.craigslist.org/",
+		"name": "ithaca",
+		"metro": false
+	},
+	{
+		"city": "jxn",
+		"url": "http://jxn.craigslist.org/",
+		"name": "jackson,MI",
+		"metro": false
+	},
+	{
+		"city": "jackson",
+		"url": "http://jackson.craigslist.org/",
+		"name": "jackson,MS",
+		"metro": false
+	},
+	{
+		"city": "jacksontn",
+		"url": "http://jacksontn.craigslist.org/",
+		"name": "jackson,TN",
+		"metro": false
+	},
+	{
+		"city": "jacksonville",
+		"url": "http://jacksonville.craigslist.org/",
+		"name": "jacksonville,FL",
+		"metro": false
+	},
+	{
+		"city": "onslow",
+		"url": "http://onslow.craigslist.org/",
+		"name": "jacksonville,NC",
+		"metro": false
+	},
+	{
+		"city": "janesville",
+		"url": "http://janesville.craigslist.org/",
+		"name": "janesville",
+		"metro": false
+	},
+	{
+		"city": "jerseyshore",
+		"url": "http://jerseyshore.craigslist.org/",
+		"name": "jersey shore",
+		"metro": false
+	},
+	{
+		"city": "jonesboro",
+		"url": "http://jonesboro.craigslist.org/",
+		"name": "jonesboro",
+		"metro": false
+	},
+	{
+		"city": "joplin",
+		"url": "http://joplin.craigslist.org/",
+		"name": "joplin",
+		"metro": false
+	},
+	{
+		"city": "kalamazoo",
+		"url": "http://kalamazoo.craigslist.org/",
+		"name": "kalamazoo",
+		"metro": false
+	},
+	{
+		"city": "kalispell",
+		"url": "http://kalispell.craigslist.org/",
+		"name": "kalispell",
+		"metro": false
+	},
+	{
+		"city": "kansascity",
+		"url": "http://kansascity.craigslist.org/",
+		"name": "kansas city,MO",
+		"metro": true
+	},
+	{
+		"city": "kenai",
+		"url": "http://kenai.craigslist.org/",
+		"name": "kenai peninsula",
+		"metro": false
+	},
+	{
+		"city": "kpr",
+		"url": "http://kpr.craigslist.org/",
+		"name": "kennewick-pasco-richland",
+		"metro": false
+	},
+	{
+		"city": "racine",
+		"url": "http://racine.craigslist.org/",
+		"name": "kenosha-racine",
+		"metro": false
+	},
+	{
+		"city": "killeen",
+		"url": "http://killeen.craigslist.org/",
+		"name": "killeen / temple / ft hood",
+		"metro": false
+	},
+	{
+		"city": "kirksville",
+		"url": "http://kirksville.craigslist.org/",
+		"name": "kirksville",
+		"metro": false
+	},
+	{
+		"city": "klamath",
+		"url": "http://klamath.craigslist.org/",
+		"name": "klamath falls",
+		"metro": false
+	},
+	{
+		"city": "knoxville",
+		"url": "http://knoxville.craigslist.org/",
+		"name": "knoxville",
+		"metro": false
+	},
+	{
+		"city": "kokomo",
+		"url": "http://kokomo.craigslist.org/",
+		"name": "kokomo",
+		"metro": false
+	},
+	{
+		"city": "lacrosse",
+		"url": "http://lacrosse.craigslist.org/",
+		"name": "la crosse",
+		"metro": false
+	},
+	{
+		"city": "lasalle",
+		"url": "http://lasalle.craigslist.org/",
+		"name": "la salle co",
+		"metro": false
+	},
+	{
+		"city": "lafayette",
+		"url": "http://lafayette.craigslist.org/",
+		"name": "lafayette",
+		"metro": false
+	},
+	{
+		"city": "tippecanoe",
+		"url": "http://tippecanoe.craigslist.org/",
+		"name": "lafayette / west lafayette",
+		"metro": false
+	},
+	{
+		"city": "lakecharles",
+		"url": "http://lakecharles.craigslist.org/",
+		"name": "lake charles",
+		"metro": false
+	},
+	{
+		"city": "loz",
+		"url": "http://loz.craigslist.org/",
+		"name": "lake of the ozarks",
+		"metro": false
+	},
+	{
+		"city": "lakeland",
+		"url": "http://lakeland.craigslist.org/",
+		"name": "lakeland",
+		"metro": false
+	},
+	{
+		"city": "lancaster",
+		"url": "http://lancaster.craigslist.org/",
+		"name": "lancaster,PA",
+		"metro": false
+	},
+	{
+		"city": "lansing",
+		"url": "http://lansing.craigslist.org/",
+		"name": "lansing",
+		"metro": false
+	},
+	{
+		"city": "laredo",
+		"url": "http://laredo.craigslist.org/",
+		"name": "laredo",
+		"metro": false
+	},
+	{
+		"city": "lascruces",
+		"url": "http://lascruces.craigslist.org/",
+		"name": "las cruces",
+		"metro": false
+	},
+	{
+		"city": "lasvegas",
+		"url": "http://lasvegas.craigslist.org/",
+		"name": "las vegas",
+		"metro": true
+	},
+	{
+		"city": "lawrence",
+		"url": "http://lawrence.craigslist.org/",
+		"name": "lawrence",
+		"metro": false
+	},
+	{
+		"city": "lawton",
+		"url": "http://lawton.craigslist.org/",
+		"name": "lawton",
+		"metro": false
+	},
+	{
+		"city": "allentown",
+		"url": "http://allentown.craigslist.org/",
+		"name": "lehigh valley",
+		"metro": false
+	},
+	{
+		"city": "lewiston",
+		"url": "http://lewiston.craigslist.org/",
+		"name": "lewiston / clarkston",
+		"metro": false
+	},
+	{
+		"city": "lexington",
+		"url": "http://lexington.craigslist.org/",
+		"name": "lexington,KY",
+		"metro": false
+	},
+	{
+		"city": "limaohio",
+		"url": "http://limaohio.craigslist.org/",
+		"name": "lima / findlay",
+		"metro": false
+	},
+	{
+		"city": "lincoln",
+		"url": "http://lincoln.craigslist.org/",
+		"name": "lincoln",
+		"metro": false
+	},
+	{
+		"city": "littlerock",
+		"url": "http://littlerock.craigslist.org/",
+		"name": "little rock",
+		"metro": false
+	},
+	{
+		"city": "logan",
+		"url": "http://logan.craigslist.org/",
+		"name": "logan",
+		"metro": false
+	},
+	{
+		"city": "longisland",
+		"url": "http://longisland.craigslist.org/",
+		"name": "long island",
+		"metro": false
+	},
+	{
+		"city": "losangeles",
+		"url": "http://losangeles.craigslist.org/",
+		"name": "los angeles",
+		"metro": true
+	},
+	{
+		"city": "louisville",
+		"url": "http://louisville.craigslist.org/",
+		"name": "louisville",
+		"metro": true
+	},
+	{
+		"city": "lubbock",
+		"url": "http://lubbock.craigslist.org/",
+		"name": "lubbock",
+		"metro": false
+	},
+	{
+		"city": "lynchburg",
+		"url": "http://lynchburg.craigslist.org/",
+		"name": "lynchburg",
+		"metro": false
+	},
+	{
+		"city": "macon",
+		"url": "http://macon.craigslist.org/",
+		"name": "macon / warner robins",
+		"metro": false
+	},
+	{
+		"city": "madison",
+		"url": "http://madison.craigslist.org/",
+		"name": "madison",
+		"metro": false
+	},
+	{
+		"city": "maine",
+		"url": "http://maine.craigslist.org/",
+		"name": "maine",
+		"metro": false
+	},
+	{
+		"city": "ksu",
+		"url": "http://ksu.craigslist.org/",
+		"name": "manhattan,KS",
+		"metro": false
+	},
+	{
+		"city": "mankato",
+		"url": "http://mankato.craigslist.org/",
+		"name": "mankato",
+		"metro": false
+	},
+	{
+		"city": "mansfield",
+		"url": "http://mansfield.craigslist.org/",
+		"name": "mansfield",
+		"metro": false
+	},
+	{
+		"city": "masoncity",
+		"url": "http://masoncity.craigslist.org/",
+		"name": "mason city",
+		"metro": false
+	},
+	{
+		"city": "mattoon",
+		"url": "http://mattoon.craigslist.org/",
+		"name": "mattoon-charleston",
+		"metro": false
+	},
+	{
+		"city": "mcallen",
+		"url": "http://mcallen.craigslist.org/",
+		"name": "mcallen / edinburg",
+		"metro": false
+	},
+	{
+		"city": "meadville",
+		"url": "http://meadville.craigslist.org/",
+		"name": "meadville",
+		"metro": false
+	},
+	{
+		"city": "medford",
+		"url": "http://medford.craigslist.org/",
+		"name": "medford-ashland",
+		"metro": false
+	},
+	{
+		"city": "memphis",
+		"url": "http://memphis.craigslist.org/",
+		"name": "memphis,TN",
+		"metro": true
+	},
+	{
+		"city": "mendocino",
+		"url": "http://mendocino.craigslist.org/",
+		"name": "mendocino county",
+		"metro": false
+	},
+	{
+		"city": "merced",
+		"url": "http://merced.craigslist.org/",
+		"name": "merced",
+		"metro": false
+	},
+	{
+		"city": "meridian",
+		"url": "http://meridian.craigslist.org/",
+		"name": "meridian",
+		"metro": false
+	},
+	{
+		"city": "milwaukee",
+		"url": "http://milwaukee.craigslist.org/",
+		"name": "milwaukee",
+		"metro": true
+	},
+	{
+		"city": "minneapolis",
+		"url": "http://minneapolis.craigslist.org/",
+		"name": "minneapolis / st paul",
+		"metro": true
+	},
+	{
+		"city": "missoula",
+		"url": "http://missoula.craigslist.org/",
+		"name": "missoula",
+		"metro": false
+	},
+	{
+		"city": "mobile",
+		"url": "http://mobile.craigslist.org/",
+		"name": "mobile",
+		"metro": false
+	},
+	{
+		"city": "modesto",
+		"url": "http://modesto.craigslist.org/",
+		"name": "modesto",
+		"metro": false
+	},
+	{
+		"city": "mohave",
+		"url": "http://mohave.craigslist.org/",
+		"name": "mohave county",
+		"metro": false
+	},
+	{
+		"city": "monroe",
+		"url": "http://monroe.craigslist.org/",
+		"name": "monroe,LA",
+		"metro": false
+	},
+	{
+		"city": "monroemi",
+		"url": "http://monroemi.craigslist.org/",
+		"name": "monroe,MI",
+		"metro": false
+	},
+	{
+		"city": "monterey",
+		"url": "http://monterey.craigslist.org/",
+		"name": "monterey bay",
+		"metro": false
+	},
+	{
+		"city": "montgomery",
+		"url": "http://montgomery.craigslist.org/",
+		"name": "montgomery",
+		"metro": false
+	},
+	{
+		"city": "morgantown",
+		"url": "http://morgantown.craigslist.org/",
+		"name": "morgantown",
+		"metro": false
+	},
+	{
+		"city": "moseslake",
+		"url": "http://moseslake.craigslist.org/",
+		"name": "moses lake",
+		"metro": false
+	},
+	{
+		"city": "muncie",
+		"url": "http://muncie.craigslist.org/",
+		"name": "muncie / anderson",
+		"metro": false
+	},
+	{
+		"city": "muskegon",
+		"url": "http://muskegon.craigslist.org/",
+		"name": "muskegon",
+		"metro": false
+	},
+	{
+		"city": "myrtlebeach",
+		"url": "http://myrtlebeach.craigslist.org/",
+		"name": "myrtle beach",
+		"metro": false
+	},
+	{
+		"city": "nashville",
+		"url": "http://nashville.craigslist.org/",
+		"name": "nashville",
+		"metro": true
+	},
+	{
+		"city": "nh",
+		"url": "http://nh.craigslist.org/",
+		"name": "new hampshire",
+		"metro": false
+	},
+	{
+		"city": "newhaven",
+		"url": "http://newhaven.craigslist.org/",
+		"name": "new haven",
+		"metro": false
+	},
+	{
+		"city": "neworleans",
+		"url": "http://neworleans.craigslist.org/",
+		"name": "new orleans",
+		"metro": true
+	},
+	{
+		"city": "blacksburg",
+		"url": "http://blacksburg.craigslist.org/",
+		"name": "new river valley",
+		"metro": false
+	},
+	{
+		"city": "newyork",
+		"url": "http://newyork.craigslist.org/",
+		"name": "new york city",
+		"metro": true
+	},
+	{
+		"city": "lakecity",
+		"url": "http://lakecity.craigslist.org/",
+		"name": "north central FL",
+		"metro": false
+	},
+	{
+		"city": "nd",
+		"url": "http://nd.craigslist.org/",
+		"name": "north dakota",
+		"metro": false
+	},
+	{
+		"city": "newjersey",
+		"url": "http://newjersey.craigslist.org/",
+		"name": "north jersey",
+		"metro": false
+	},
+	{
+		"city": "northmiss",
+		"url": "http://northmiss.craigslist.org/",
+		"name": "north mississippi",
+		"metro": false
+	},
+	{
+		"city": "northplatte",
+		"url": "http://northplatte.craigslist.org/",
+		"name": "north platte",
+		"metro": false
+	},
+	{
+		"city": "nesd",
+		"url": "http://nesd.craigslist.org/",
+		"name": "northeast SD",
+		"metro": false
+	},
+	{
+		"city": "northernwi",
+		"url": "http://northernwi.craigslist.org/",
+		"name": "northern WI",
+		"metro": false
+	},
+	{
+		"city": "nmi",
+		"url": "http://nmi.craigslist.org/",
+		"name": "northern michigan",
+		"metro": false
+	},
+	{
+		"city": "wheeling",
+		"url": "http://wheeling.craigslist.org/",
+		"name": "northern panhandle",
+		"metro": false
+	},
+	{
+		"city": "nwct",
+		"url": "http://nwct.craigslist.org/",
+		"name": "northwest CT",
+		"metro": false
+	},
+	{
+		"city": "nwga",
+		"url": "http://nwga.craigslist.org/",
+		"name": "northwest GA",
+		"metro": false
+	},
+	{
+		"city": "nwks",
+		"url": "http://nwks.craigslist.org/",
+		"name": "northwest KS",
+		"metro": false
+	},
+	{
+		"city": "enid",
+		"url": "http://enid.craigslist.org/",
+		"name": "northwest OK",
+		"metro": false
+	},
+	{
+		"city": "ocala",
+		"url": "http://ocala.craigslist.org/",
+		"name": "ocala",
+		"metro": false
+	},
+	{
+		"city": "odessa",
+		"url": "http://odessa.craigslist.org/",
+		"name": "odessa / midland",
+		"metro": false
+	},
+	{
+		"city": "ogden",
+		"url": "http://ogden.craigslist.org/",
+		"name": "ogden-clearfield",
+		"metro": false
+	},
+	{
+		"city": "okaloosa",
+		"url": "http://okaloosa.craigslist.org/",
+		"name": "okaloosa / walton",
+		"metro": false
+	},
+	{
+		"city": "oklahomacity",
+		"url": "http://oklahomacity.craigslist.org/",
+		"name": "oklahoma city",
+		"metro": true
+	},
+	{
+		"city": "olympic",
+		"url": "http://olympic.craigslist.org/",
+		"name": "olympic peninsula",
+		"metro": false
+	},
+	{
+		"city": "omaha",
+		"url": "http://omaha.craigslist.org/",
+		"name": "omaha / council bluffs",
+		"metro": true
+	},
+	{
+		"city": "oneonta",
+		"url": "http://oneonta.craigslist.org/",
+		"name": "oneonta",
+		"metro": false
+	},
+	{
+		"city": "orangecounty",
+		"url": "http://orangecounty.craigslist.org/",
+		"name": "orange county",
+		"metro": true
+	},
+	{
+		"city": "oregoncoast",
+		"url": "http://oregoncoast.craigslist.org/",
+		"name": "oregon coast",
+		"metro": false
+	},
+	{
+		"city": "orlando",
+		"url": "http://orlando.craigslist.org/",
+		"name": "orlando",
+		"metro": true
+	},
+	{
+		"city": "outerbanks",
+		"url": "http://outerbanks.craigslist.org/",
+		"name": "outer banks",
+		"metro": false
+	},
+	{
+		"city": "owensboro",
+		"url": "http://owensboro.craigslist.org/",
+		"name": "owensboro",
+		"metro": false
+	},
+	{
+		"city": "palmsprings",
+		"url": "http://palmsprings.craigslist.org/",
+		"name": "palm springs,CA",
+		"metro": false
+	},
+	{
+		"city": "panamacity",
+		"url": "http://panamacity.craigslist.org/",
+		"name": "panama city,FL",
+		"metro": false
+	},
+	{
+		"city": "parkersburg",
+		"url": "http://parkersburg.craigslist.org/",
+		"name": "parkersburg-marietta",
+		"metro": false
+	},
+	{
+		"city": "pensacola",
+		"url": "http://pensacola.craigslist.org/",
+		"name": "pensacola",
+		"metro": false
+	},
+	{
+		"city": "peoria",
+		"url": "http://peoria.craigslist.org/",
+		"name": "peoria",
+		"metro": false
+	},
+	{
+		"city": "philadelphia",
+		"url": "http://philadelphia.craigslist.org/",
+		"name": "philadelphia",
+		"metro": true
+	},
+	{
+		"city": "phoenix",
+		"url": "http://phoenix.craigslist.org/",
+		"name": "phoenix",
+		"metro": true
+	},
+	{
+		"city": "csd",
+		"url": "http://csd.craigslist.org/",
+		"name": "pierre / central SD",
+		"metro": false
+	},
+	{
+		"city": "pittsburgh",
+		"url": "http://pittsburgh.craigslist.org/",
+		"name": "pittsburgh",
+		"metro": true
+	},
+	{
+		"city": "plattsburgh",
+		"url": "http://plattsburgh.craigslist.org/",
+		"name": "plattsburgh-adirondacks",
+		"metro": false
+	},
+	{
+		"city": "poconos",
+		"url": "http://poconos.craigslist.org/",
+		"name": "poconos",
+		"metro": false
+	},
+	{
+		"city": "porthuron",
+		"url": "http://porthuron.craigslist.org/",
+		"name": "port huron",
+		"metro": false
+	},
+	{
+		"city": "portland",
+		"url": "http://portland.craigslist.org/",
+		"name": "portland,OR",
+		"metro": true
+	},
+	{
+		"city": "potsdam",
+		"url": "http://potsdam.craigslist.org/",
+		"name": "potsdam-canton-massena",
+		"metro": false
+	},
+	{
+		"city": "prescott",
+		"url": "http://prescott.craigslist.org/",
+		"name": "prescott",
+		"metro": false
+	},
+	{
+		"city": "provo",
+		"url": "http://provo.craigslist.org/",
+		"name": "provo / orem",
+		"metro": false
+	},
+	{
+		"city": "pueblo",
+		"url": "http://pueblo.craigslist.org/",
+		"name": "pueblo",
+		"metro": false
+	},
+	{
+		"city": "pullman",
+		"url": "http://pullman.craigslist.org/",
+		"name": "pullman / moscow",
+		"metro": false
+	},
+	{
+		"city": "quadcities",
+		"url": "http://quadcities.craigslist.org/",
+		"name": "quad cities,IA/IL",
+		"metro": false
+	},
+	{
+		"city": "raleigh",
+		"url": "http://raleigh.craigslist.org/",
+		"name": "raleigh / durham / CH",
+		"metro": true
+	},
+	{
+		"city": "rapidcity",
+		"url": "http://rapidcity.craigslist.org/",
+		"name": "rapid city / west SD",
+		"metro": false
+	},
+	{
+		"city": "reading",
+		"url": "http://reading.craigslist.org/",
+		"name": "reading",
+		"metro": false
+	},
+	{
+		"city": "redding",
+		"url": "http://redding.craigslist.org/",
+		"name": "redding",
+		"metro": false
+	},
+	{
+		"city": "reno",
+		"url": "http://reno.craigslist.org/",
+		"name": "reno / tahoe",
+		"metro": false
+	},
+	{
+		"city": "providence",
+		"url": "http://providence.craigslist.org/",
+		"name": "rhode island",
+		"metro": true
+	},
+	{
+		"city": "richmondin",
+		"url": "http://richmondin.craigslist.org/",
+		"name": "richmond,IN",
+		"metro": false
+	},
+	{
+		"city": "richmond",
+		"url": "http://richmond.craigslist.org/",
+		"name": "richmond,VA",
+		"metro": true
+	},
+	{
+		"city": "roanoke",
+		"url": "http://roanoke.craigslist.org/",
+		"name": "roanoke",
+		"metro": false
+	},
+	{
+		"city": "rmn",
+		"url": "http://rmn.craigslist.org/",
+		"name": "rochester,MN",
+		"metro": false
+	},
+	{
+		"city": "rochester",
+		"url": "http://rochester.craigslist.org/",
+		"name": "rochester,NY",
+		"metro": false
+	},
+	{
+		"city": "rockford",
+		"url": "http://rockford.craigslist.org/",
+		"name": "rockford",
+		"metro": false
+	},
+	{
+		"city": "roseburg",
+		"url": "http://roseburg.craigslist.org/",
+		"name": "roseburg",
+		"metro": false
+	},
+	{
+		"city": "roswell",
+		"url": "http://roswell.craigslist.org/",
+		"name": "roswell / carlsbad",
+		"metro": false
+	},
+	{
+		"city": "sacramento",
+		"url": "http://sacramento.craigslist.org/",
+		"name": "sacramento",
+		"metro": true
+	},
+	{
+		"city": "saginaw",
+		"url": "http://saginaw.craigslist.org/",
+		"name": "saginaw-midland-baycity",
+		"metro": false
+	},
+	{
+		"city": "salem",
+		"url": "http://salem.craigslist.org/",
+		"name": "salem,OR",
+		"metro": false
+	},
+	{
+		"city": "salina",
+		"url": "http://salina.craigslist.org/",
+		"name": "salina",
+		"metro": false
+	},
+	{
+		"city": "saltlakecity",
+		"url": "http://saltlakecity.craigslist.org/",
+		"name": "salt lake city",
+		"metro": true
+	},
+	{
+		"city": "sanangelo",
+		"url": "http://sanangelo.craigslist.org/",
+		"name": "san angelo",
+		"metro": false
+	},
+	{
+		"city": "sanantonio",
+		"url": "http://sanantonio.craigslist.org/",
+		"name": "san antonio",
+		"metro": true
+	},
+	{
+		"city": "sandiego",
+		"url": "http://sandiego.craigslist.org/",
+		"name": "san diego",
+		"metro": true
+	},
+	{
+		"city": "slo",
+		"url": "http://slo.craigslist.org/",
+		"name": "san luis obispo",
+		"metro": false
+	},
+	{
+		"city": "sanmarcos",
+		"url": "http://sanmarcos.craigslist.org/",
+		"name": "san marcos",
+		"metro": false
+	},
+	{
+		"city": "sandusky",
+		"url": "http://sandusky.craigslist.org/",
+		"name": "sandusky",
+		"metro": false
+	},
+	{
+		"city": "santabarbara",
+		"url": "http://santabarbara.craigslist.org/",
+		"name": "santa barbara",
+		"metro": false
+	},
+	{
+		"city": "santafe",
+		"url": "http://santafe.craigslist.org/",
+		"name": "santa fe / taos",
+		"metro": false
+	},
+	{
+		"city": "santamaria",
+		"url": "http://santamaria.craigslist.org/",
+		"name": "santa maria",
+		"metro": false
+	},
+	{
+		"city": "sarasota",
+		"url": "http://sarasota.craigslist.org/",
+		"name": "sarasota-bradenton",
+		"metro": false
+	},
+	{
+		"city": "savannah",
+		"url": "http://savannah.craigslist.org/",
+		"name": "savannah / hinesville",
+		"metro": false
+	},
+	{
+		"city": "scottsbluff",
+		"url": "http://scottsbluff.craigslist.org/",
+		"name": "scottsbluff / panhandle",
+		"metro": false
+	},
+	{
+		"city": "scranton",
+		"url": "http://scranton.craigslist.org/",
+		"name": "scranton / wilkes-barre",
+		"metro": false
+	},
+	{
+		"city": "seattle",
+		"url": "http://seattle.craigslist.org/",
+		"name": "seattle-tacoma",
+		"metro": true
+	},
+	{
+		"city": "sheboygan",
+		"url": "http://sheboygan.craigslist.org/",
+		"name": "sheboygan,WI",
+		"metro": false
+	},
+	{
+		"city": "showlow",
+		"url": "http://showlow.craigslist.org/",
+		"name": "show low",
+		"metro": false
+	},
+	{
+		"city": "shreveport",
+		"url": "http://shreveport.craigslist.org/",
+		"name": "shreveport",
+		"metro": false
+	},
+	{
+		"city": "sierravista",
+		"url": "http://sierravista.craigslist.org/",
+		"name": "sierra vista",
+		"metro": false
+	},
+	{
+		"city": "siouxcity",
+		"url": "http://siouxcity.craigslist.org/",
+		"name": "sioux city,IA",
+		"metro": false
+	},
+	{
+		"city": "siouxfalls",
+		"url": "http://siouxfalls.craigslist.org/",
+		"name": "sioux falls / SE SD",
+		"metro": false
+	},
+	{
+		"city": "siskiyou",
+		"url": "http://siskiyou.craigslist.org/",
+		"name": "siskiyou county",
+		"metro": false
+	},
+	{
+		"city": "skagit",
+		"url": "http://skagit.craigslist.org/",
+		"name": "skagit / island / SJI",
+		"metro": false
+	},
+	{
+		"city": "southbend",
+		"url": "http://southbend.craigslist.org/",
+		"name": "south bend / michiana",
+		"metro": false
+	},
+	{
+		"city": "southcoast",
+		"url": "http://southcoast.craigslist.org/",
+		"name": "south coast",
+		"metro": false
+	},
+	{
+		"city": "sd",
+		"url": "http://sd.craigslist.org/",
+		"name": "south dakota",
+		"metro": false
+	},
+	{
+		"city": "miami",
+		"url": "http://miami.craigslist.org/",
+		"name": "south florida",
+		"metro": true
+	},
+	{
+		"city": "southjersey",
+		"url": "http://southjersey.craigslist.org/",
+		"name": "south jersey",
+		"metro": false
+	},
+	{
+		"city": "ottumwa",
+		"url": "http://ottumwa.craigslist.org/",
+		"name": "southeast IA",
+		"metro": false
+	},
+	{
+		"city": "seks",
+		"url": "http://seks.craigslist.org/",
+		"name": "southeast KS",
+		"metro": false
+	},
+	{
+		"city": "juneau",
+		"url": "http://juneau.craigslist.org/",
+		"name": "southeast alaska",
+		"metro": false
+	},
+	{
+		"city": "semo",
+		"url": "http://semo.craigslist.org/",
+		"name": "southeast missouri",
+		"metro": false
+	},
+	{
+		"city": "swv",
+		"url": "http://swv.craigslist.org/",
+		"name": "southern WV",
+		"metro": false
+	},
+	{
+		"city": "carbondale",
+		"url": "http://carbondale.craigslist.org/",
+		"name": "southern illinois",
+		"metro": false
+	},
+	{
+		"city": "smd",
+		"url": "http://smd.craigslist.org/",
+		"name": "southern maryland",
+		"metro": false
+	},
+	{
+		"city": "swks",
+		"url": "http://swks.craigslist.org/",
+		"name": "southwest KS",
+		"metro": false
+	},
+	{
+		"city": "marshall",
+		"url": "http://marshall.craigslist.org/",
+		"name": "southwest MN",
+		"metro": false
+	},
+	{
+		"city": "natchez",
+		"url": "http://natchez.craigslist.org/",
+		"name": "southwest MS",
+		"metro": false
+	},
+	{
+		"city": "bigbend",
+		"url": "http://bigbend.craigslist.org/",
+		"name": "southwest TX",
+		"metro": false
+	},
+	{
+		"city": "swva",
+		"url": "http://swva.craigslist.org/",
+		"name": "southwest VA",
+		"metro": false
+	},
+	{
+		"city": "swmi",
+		"url": "http://swmi.craigslist.org/",
+		"name": "southwest michigan",
+		"metro": false
+	},
+	{
+		"city": "spacecoast",
+		"url": "http://spacecoast.craigslist.org/",
+		"name": "space coast",
+		"metro": false
+	},
+	{
+		"city": "spokane",
+		"url": "http://spokane.craigslist.org/",
+		"name": "spokane / coeur d'alene",
+		"metro": false
+	},
+	{
+		"city": "springfieldil",
+		"url": "http://springfieldil.craigslist.org/",
+		"name": "springfield,IL",
+		"metro": false
+	},
+	{
+		"city": "springfield",
+		"url": "http://springfield.craigslist.org/",
+		"name": "springfield,MO",
+		"metro": false
+	},
+	{
+		"city": "staugustine",
+		"url": "http://staugustine.craigslist.org/",
+		"name": "st augustine",
+		"metro": false
+	},
+	{
+		"city": "stcloud",
+		"url": "http://stcloud.craigslist.org/",
+		"name": "st cloud",
+		"metro": false
+	},
+	{
+		"city": "stgeorge",
+		"url": "http://stgeorge.craigslist.org/",
+		"name": "st george",
+		"metro": false
+	},
+	{
+		"city": "stjoseph",
+		"url": "http://stjoseph.craigslist.org/",
+		"name": "st joseph",
+		"metro": false
+	},
+	{
+		"city": "stlouis",
+		"url": "http://stlouis.craigslist.org/",
+		"name": "st louis,MO",
+		"metro": true
+	},
+	{
+		"city": "pennstate",
+		"url": "http://pennstate.craigslist.org/",
+		"name": "state college",
+		"metro": false
+	},
+	{
+		"city": "statesboro",
+		"url": "http://statesboro.craigslist.org/",
+		"name": "statesboro",
+		"metro": false
+	},
+	{
+		"city": "stillwater",
+		"url": "http://stillwater.craigslist.org/",
+		"name": "stillwater",
+		"metro": false
+	},
+	{
+		"city": "stockton",
+		"url": "http://stockton.craigslist.org/",
+		"name": "stockton",
+		"metro": false
+	},
+	{
+		"city": "susanville",
+		"url": "http://susanville.craigslist.org/",
+		"name": "susanville",
+		"metro": false
+	},
+	{
+		"city": "syracuse",
+		"url": "http://syracuse.craigslist.org/",
+		"name": "syracuse",
+		"metro": false
+	},
+	{
+		"city": "tallahassee",
+		"url": "http://tallahassee.craigslist.org/",
+		"name": "tallahassee",
+		"metro": false
+	},
+	{
+		"city": "tampa",
+		"url": "http://tampa.craigslist.org/",
+		"name": "tampa bay area",
+		"metro": true
+	},
+	{
+		"city": "terrehaute",
+		"url": "http://terrehaute.craigslist.org/",
+		"name": "terre haute",
+		"metro": false
+	},
+	{
+		"city": "texarkana",
+		"url": "http://texarkana.craigslist.org/",
+		"name": "texarkana",
+		"metro": false
+	},
+	{
+		"city": "texoma",
+		"url": "http://texoma.craigslist.org/",
+		"name": "texoma",
+		"metro": false
+	},
+	{
+		"city": "thumb",
+		"url": "http://thumb.craigslist.org/",
+		"name": "the thumb",
+		"metro": false
+	},
+	{
+		"city": "toledo",
+		"url": "http://toledo.craigslist.org/",
+		"name": "toledo",
+		"metro": false
+	},
+	{
+		"city": "topeka",
+		"url": "http://topeka.craigslist.org/",
+		"name": "topeka",
+		"metro": false
+	},
+	{
+		"city": "treasure",
+		"url": "http://treasure.craigslist.org/",
+		"name": "treasure coast",
+		"metro": false
+	},
+	{
+		"city": "tricities",
+		"url": "http://tricities.craigslist.org/",
+		"name": "tri-cities,TN",
+		"metro": false
+	},
+	{
+		"city": "tucson",
+		"url": "http://tucson.craigslist.org/",
+		"name": "tucson",
+		"metro": true
+	},
+	{
+		"city": "tulsa",
+		"url": "http://tulsa.craigslist.org/",
+		"name": "tulsa",
+		"metro": false
+	},
+	{
+		"city": "tuscaloosa",
+		"url": "http://tuscaloosa.craigslist.org/",
+		"name": "tuscaloosa",
+		"metro": false
+	},
+	{
+		"city": "tuscarawas",
+		"url": "http://tuscarawas.craigslist.org/",
+		"name": "tuscarawas co",
+		"metro": false
+	},
+	{
+		"city": "twinfalls",
+		"url": "http://twinfalls.craigslist.org/",
+		"name": "twin falls",
+		"metro": false
+	},
+	{
+		"city": "twintiers",
+		"url": "http://twintiers.craigslist.org/",
+		"name": "twin tiers NY/PA",
+		"metro": false
+	},
+	{
+		"city": "easttexas",
+		"url": "http://easttexas.craigslist.org/",
+		"name": "tyler / east TX",
+		"metro": false
+	},
+	{
+		"city": "up",
+		"url": "http://up.craigslist.org/",
+		"name": "upper peninsula",
+		"metro": false
+	},
+	{
+		"city": "utica",
+		"url": "http://utica.craigslist.org/",
+		"name": "utica-rome-oneida",
+		"metro": false
+	},
+	{
+		"city": "valdosta",
+		"url": "http://valdosta.craigslist.org/",
+		"name": "valdosta",
+		"metro": false
+	},
+	{
+		"city": "ventura",
+		"url": "http://ventura.craigslist.org/",
+		"name": "ventura county",
+		"metro": false
+	},
+	{
+		"city": "burlington",
+		"url": "http://burlington.craigslist.org/",
+		"name": "vermont",
+		"metro": false
+	},
+	{
+		"city": "victoriatx",
+		"url": "http://victoriatx.craigslist.org/",
+		"name": "victoria,TX",
+		"metro": false
+	},
+	{
+		"city": "visalia",
+		"url": "http://visalia.craigslist.org/",
+		"name": "visalia-tulare",
+		"metro": false
+	},
+	{
+		"city": "waco",
+		"url": "http://waco.craigslist.org/",
+		"name": "waco",
+		"metro": false
+	},
+	{
+		"city": "washingtondc",
+		"url": "http://washingtondc.craigslist.org/",
+		"name": "washington DC",
+		"metro": true
+	},
+	{
+		"city": "waterloo",
+		"url": "http://waterloo.craigslist.org/",
+		"name": "waterloo / cedar falls",
+		"metro": false
+	},
+	{
+		"city": "watertown",
+		"url": "http://watertown.craigslist.org/",
+		"name": "watertown",
+		"metro": false
+	},
+	{
+		"city": "wausau",
+		"url": "http://wausau.craigslist.org/",
+		"name": "wausau",
+		"metro": false
+	},
+	{
+		"city": "wenatchee",
+		"url": "http://wenatchee.craigslist.org/",
+		"name": "wenatchee",
+		"metro": false
+	},
+	{
+		"city": "wv",
+		"url": "http://wv.craigslist.org/",
+		"name": "west virginia (old)",
+		"metro": false
+	},
+	{
+		"city": "quincy",
+		"url": "http://quincy.craigslist.org/",
+		"name": "western IL",
+		"metro": false
+	},
+	{
+		"city": "westky",
+		"url": "http://westky.craigslist.org/",
+		"name": "western KY",
+		"metro": false
+	},
+	{
+		"city": "westmd",
+		"url": "http://westmd.craigslist.org/",
+		"name": "western maryland",
+		"metro": false
+	},
+	{
+		"city": "westernmass",
+		"url": "http://westernmass.craigslist.org/",
+		"name": "western massachusetts",
+		"metro": false
+	},
+	{
+		"city": "westslope",
+		"url": "http://westslope.craigslist.org/",
+		"name": "western slope",
+		"metro": false
+	},
+	{
+		"city": "wichita",
+		"url": "http://wichita.craigslist.org/",
+		"name": "wichita",
+		"metro": false
+	},
+	{
+		"city": "wichitafalls",
+		"url": "http://wichitafalls.craigslist.org/",
+		"name": "wichita falls",
+		"metro": false
+	},
+	{
+		"city": "williamsport",
+		"url": "http://williamsport.craigslist.org/",
+		"name": "williamsport",
+		"metro": false
+	},
+	{
+		"city": "wilmington",
+		"url": "http://wilmington.craigslist.org/",
+		"name": "wilmington,NC",
+		"metro": false
+	},
+	{
+		"city": "winchester",
+		"url": "http://winchester.craigslist.org/",
+		"name": "winchester",
+		"metro": false
+	},
+	{
+		"city": "winstonsalem",
+		"url": "http://winstonsalem.craigslist.org/",
+		"name": "winston-salem",
+		"metro": false
+	},
+	{
+		"city": "worcester",
+		"url": "http://worcester.craigslist.org/",
+		"name": "worcester / central MA",
+		"metro": false
+	},
+	{
+		"city": "wyoming",
+		"url": "http://wyoming.craigslist.org/",
+		"name": "wyoming",
+		"metro": false
+	},
+	{
+		"city": "yakima",
+		"url": "http://yakima.craigslist.org/",
+		"name": "yakima",
+		"metro": false
+	},
+	{
+		"city": "york",
+		"url": "http://york.craigslist.org/",
+		"name": "york,PA",
+		"metro": false
+	},
+	{
+		"city": "youngstown",
+		"url": "http://youngstown.craigslist.org/",
+		"name": "youngstown",
+		"metro": false
+	},
+	{
+		"city": "yubasutter",
+		"url": "http://yubasutter.craigslist.org/",
+		"name": "yuba-sutter",
+		"metro": false
+	},
+	{
+		"city": "yuma",
+		"url": "http://yuma.craigslist.org/",
+		"name": "yuma",
+		"metro": false
+	},
+	{
+		"city": "zanesville",
+		"url": "http://zanesville.craigslist.org/",
+		"name": "zanesville / cambridge",
+		"metro": false
+	}
+]
